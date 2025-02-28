@@ -80,8 +80,39 @@ Gnatt charts assist in the scheduling process in the following ways;
 3. Simplified communication.
 4. Task dependencies and milestones
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Some of the core issues adressed include;
+1. Unclear project scope and planning.
+2. Inefficient resource allocation and scheduling.
+3. Poor communication and collaboration.
+4. Inadequate quality assuarance and risk management.
+
+These problems are important to the target audience because;
+1. They impact on timely delivery.
+2. They lead to cost efficiency.
+3. They ensure high quality output and customer satisfaction.
+4. They also help in strategic decision-making.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+Clearly defining the problem is a critical step in the software development process because it establishes a solid foundation that guides all subsequent decisions and actions. It provides the following benefits;
+1. Focused-feature development
+2. Enhanced risk management
+3. Efficient resource allocation
+4. Prevention of scope creep
+5. Efficient resource allocation
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+I would use the following steps to describe my software solution;
+1. Grab the audience attention using a strong hook
+2. Describe the problem and make it clear and relatable
+3. Explain how your software solves the problem efficiently
+4. Show a demo with key features that solve the problem
+5. Ask for what you need with a strong call to action
 ## 11. What are the main features or functionalities that make your software stand out?
+1. Centralized dashboard
 ## 12. What data is available regarding the market size and growth potential for your software?
+Market analysis
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Understanding market trends is essential in shaping both the positioning and development of a software in the following ways;
+1. By anticipating customer needs.
+2. Through guiding feature prioritization
+3. Through competitive diffrentiation
+4. By optimizing pricing and marketing strategies.
+5. Lastly, through risk mitigation and long-term learning.
